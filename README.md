@@ -9,8 +9,8 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome:Pedro Henrique Siqueira Santos
+- Matricula:1644589
 - Proposta de projeto escolhida:
 - Breve descrição sobre seu projeto:
 
